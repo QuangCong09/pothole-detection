@@ -5,6 +5,13 @@ Liên kết tệp Google Colab để phân đoạn và theo dõi yolov8 được
 https://colab.research.google.com/drive/1SJooao7MexJNDXJiF3ry1Z15NhtpD5jn#scrollTo=6AffZbNc2-eC
 
 Công nghệ
-Trăn
+PYTHON
 
 Phân đoạn và theo dõi đối tượng (ID + Đường mòn) sử dụng YOLOv8 trên Dữ liệu tùy chỉnh
+
+
+![Phát hiện ổ gà](images/pothole-detection-image.jpg)
+
+# Phát hiện ổ gà với Ultralytics YOLOv8
+[![Roboflow](https://img.shields.io/badge/-Roboflow-red)](https://roboflow.com)
+[![GitHub stars](https://img.shields.io/github/stars/username/repo)](https://github.com/username/repo)
