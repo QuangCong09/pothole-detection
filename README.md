@@ -10,8 +10,6 @@ PYTHON
 Phân đoạn và theo dõi đối tượng (ID + Đường mòn) sử dụng YOLOv8 trên Dữ liệu tùy chỉnh
 
 
-![Phát hiện ổ gà](images/pothole-detection-image.jpg)
 
-# Phát hiện ổ gà với Ultralytics YOLOv8
-[![Roboflow](https://img.shields.io/badge/-Roboflow-red)](https://roboflow.com)
-[![GitHub stars](https://img.shields.io/github/stars/username/repo)](https://github.com/username/repo)
+[![Roboflow](https://img.shields.io/badge/-Roboflow-red)]([https://roboflow.com](https://app.roboflow.com/potholes-detection-nx7uy))
+
