@@ -22,10 +22,6 @@ The google colab file link for yolov8 segmentation and tracking is provided belo
 
 ### Clone the repository
 
-## My roboflow workspace containing the pothole dataset
-
-[![Roboflow Workspace](https://app.roboflow.com/potholes-detection-nx7uy)](#)
-
 ```bash
 git clone https://github.com/QuangCong09/pothole-detection.git
 
