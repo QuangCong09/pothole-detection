@@ -1,13 +1,30 @@
-Phân đoạn hình ảnh & Phát hiện ổ gà
-Liên kết tệp Google Colab (Giải pháp chỉ bằng một cú nhấp chuột)
-Liên kết tệp Google Colab để phân đoạn và theo dõi yolov8 được cung cấp bên dưới, bạn có thể kiểm tra việc triển khai trong Google Colab và đây là việc triển khai chỉ bằng một cú nhấp chuột, bạn chỉ cần chọn Thời gian chạy là GPU và nhấp vào Chạy tất cả.
+# Image Segmentation & Pothole Detection
 
-https://colab.research.google.com/drive/1SJooao7MexJNDXJiF3ry1Z15NhtpD5jn#scrollTo=6AffZbNc2-eC
+---
 
-Công nghệ
-PYTHON
+## Google Colab File Link (A Single Click Solution)
 
-Phân đoạn và theo dõi đối tượng (ID + Đường mòn) sử dụng YOLOv8 trên Dữ liệu tùy chỉnh
+The google colab file link for yolov8 segmentation and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation, you just need to select the Run Time as GPU, and click on Run All.
+
+[Google Colab File](https://colab.research.google.com/drive/1SJooao7MexJNDXJiF3ry1Z15NhtpD5jn)
+
+---
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## Object Segmentation and Tracking (ID + Trails) using YOLOv8 on Custom Data
+
+---
+
+### Clone the repository
+
+```bash
+git clone https://github.com/mounishvatti/pothole_detection_yolov8.git
+
 
 
 
